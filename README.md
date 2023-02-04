@@ -13,4 +13,4 @@ The elevation (from Digital Elevation Model data)  adopts Chinese Academy of Sci
 
 Monthly groundwater data from the lower Tarim River groundwater monitoring wells, via https://data.tpdc.ac.cn/zh-hans/data/1aa5bcea-f637-41f1-88e4-2296ed712e7b. 
 
-distance from the river calculated by Arcgis。
+distance from the river calculated by Arcgis.
